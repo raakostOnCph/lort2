@@ -6,10 +6,6 @@ ib 3
 
 ib 4
 
-
-
-
-
 pis
 pis
 pis
